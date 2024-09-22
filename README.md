@@ -1,3 +1,5 @@
+<h2>nb: hanya menggunakan operator aritmatika sederhana</h2>
+<br>
 <h2>Soal No 1</h2>
 <h3>Andi mempunyai celengan berbentuk balok dan tabung. Celengan yang berbentuk balok memiliki ukuran panjang 20cm dan lebar 13cm, Sedangkan celengan yang berbentuk tabung memiliki diameter 14cm dan luas selimutnya 440cm2.    Bantulah Andi dengan membuat program untuk menghitung volume dari kedua celengan miliknya tersebut !</h3>
 <br>
